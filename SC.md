@@ -57,7 +57,71 @@
   1.  Move gonio fully to the upper limit \~4.0                                                                                                                                                 ![300](SC/media/image5.jpeg)
                                                                                                                                                                                                                         
   2.  Undo all 5 cables ( marked with a yellow dot) to the source chamber and Wein Filter (not the cable on the left side of the chamber)                                                                               
-                                                                                                                                                                                                                        
+              
+              
+              
+        **Source:** [[Cs source]]
+**Creation Date:** 18.05.21 - 12:18
+**Image: X:** 256 pixels **Y:** 256 pixels **Z:** 25 planes with 8 **images**
+**Dwell time:** 1000 $\mu$s, 65.536 s/plane
+**Sample stage position: X:** -11889 $\mu$m **Y:** 837 $\mu$m **Z:** 3193 $\mu$m
+**Raster size:** 20.0 $\mu$m
+**Primary Current initial:** 12900 pA **final:** 12805 pA
+**D0-0  DCs-0  D1-3 ES-1  AS-0  EnS-0**
+**Bfield:** 1723607 DAC **Q:** 352 DAC   **LF4:** 1675 DAC **Hex:** 500 DAC
+
+| Detector | Symbol   | Radius     | Mass     | Neg plate | Pos plate | Deflection Val. |
+| -------- | -------- | ---------- | -------- | --------- | --------- | --------------- |
+| T-1      | 12C      | 219.837 mm | 11.9998  | -50 DAC   | -50 V     | -7.4 V          |
+| T-2      | 16O      | 253.848 mm | 16.0000  | 55 DAC    | 55 V      | 7.9 V           |
+| T-3      | 28Si     | 335.807 mm | 27.9996  | 3 DAC     | 3 V       | 0.3 V           |
+| T-4      | 11B 16O2 | 416.155 mm | 43.0014  | -107 DAC  | -107 V    | -15.8 V         |
+| T-5      | 52Cr 16O | 523.321 mm | 68.0000  | -7 DAC    | -7 V      | -1.1 V          |
+| T-7      | 56Fe 16O | 538.491 mm | 71.9994  | -86 DAC   | -86 V     | -12.7 V         |
+| T-8      | 96Mo 16O | 671.616 mm | 111.9990 | 52 DAC    | 52 V      | 7.5 V           |
+| SE       | SE       |            |          |           |           |                 |
+
+
+##### [[NanoSIMS image results]]
+
+###### [[Images overview]]
+|                                      |                                      |                                  |
+| ------------------------------------ | ------------------------------------ | -------------------------------- |
+| **12 - [[12C]]**                     | **16 - [[16O]]**                     | **28 - [[28Si]]**                |
+| ![](2021_05_17_1_27_12C _T.png)      | ![[2021_05_17_1_27_16O _T.png]]      | ![[2021_05_17_1_27_28Si _T.png]] |
+| **43 - [[11B 16O2]]**                | **68 - [[52Cr 16O]]**                | **[[SE]]**                       |
+| ![[2021_05_17_1_27_11B 16O2 _T.png]] | ![[2021_05_17_1_27_52Cr 16O _T.png]] | ![[2021_05_17_1_27_SE_T.png]]    |
+| **72 - [[56Fe 16O]]**                | **112 - [[96Mo 16O]]**               | mass_sym_9                       |
+| ![[2021_05_17_1_27_56Fe 16O _T.png]] | ![[2021_05_17_1_27_96Mo 16O _T.png]] | mass_im_9                        |
+
+###### [[Line profiles]]
+
+###### [[Depth profiles]]
+
+
+[](2021_05_17_1_27_12C _T.png) 
+
+![](/sn/2021_05_17_1_27_12C _T.png) 
+##### Summary
+      
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
   3.  Undo the black earth cable (10mm spanner)                                                                                                                                                 
                                                                                                                                                                                                                         
   > Remove the water cooling block from the Wien Filter (WF) (2x 3mm allen) (inner screws)                                                                                                                              
