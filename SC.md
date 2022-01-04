@@ -8,11 +8,12 @@
 >-   3 mm Allen key
 >- 4 mm Allen key
 >- 
-![[IMG_20220104_103439 1.jpg]]
+
 
 ----
-  1.  The Cs emitter must be out gassed in the airlock before installing.                                                                                                                                                ![|300](SC/media/image1.jpeg)                                                                                                                                                                                                                        
-  2.  Load a shuttle into the airlock (without a holder) and put the emitter into one of the holes so that it is very close to the light.                                                                               
+  1.  The Cs emitter must be out gassed in the airlock before installing.                                                                                                                                                ![|300](SC/media/image1.jpeg)    
+  2.                                                                                                                                                                                                                      
+  3.  Load a shuttle into the airlock (without a holder) and put the emitter into one of the holes so that it is very close to the light.                                                                       ![](sn/tt.png)                                                                           
                                                                                                                                                                                                                         
   3.  Pump the airlock                                                                                                                                                                                                  
                                                                                                                                                                                                                         
