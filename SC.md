@@ -13,7 +13,7 @@
 ----
   1.  The Cs emitter must be out gassed in the airlock before installing.                                                                                                                                                ![|300](SC/media/image1.jpeg)    
   2.                                                                                                                                                                                                                      
-  3.  Load a shuttle into the airlock (without a holder) and put the emitter into one of the holes so that it is very close to the light.                                                                       ![](sn/T.png)     ![](sn/T.jpg)                                                                       
+  3.  Load a shuttle into the airlock (without a holder) and put the emitter into one of the holes so that it is very close to the light.                                                                       ![](sn/T.png)                                                                    
                                                                                                                                                                                                                         
   3.  Pump the airlock                                                                                                                                                                                                  
                                                                                                                                                                                                                         
